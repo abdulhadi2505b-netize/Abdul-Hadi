@@ -1,0 +1,100 @@
+    
+        #navbar{
+            position: fixed;
+            z-index: 1;
+            width: 100%;
+            height: 55px;
+            background-color:#202938;
+            align-items: center;
+            padding:0px 25px ;
+            margin: 25px 0px;
+          }
+          .wrap{
+            position: relative;
+            top: 120px;
+          }
+        #color{
+            text-transform: capitalize;
+            color:white;
+            margin-left: 200px;
+            align-items:center;
+            
+        }
+        #color:hover{
+            color: goldenrod;
+            background-color: lightgoldenrodyellow;
+        }
+        #logo{
+            text-transform: capitalize;
+        }
+        #logo:hover{
+            color: goldenrod;
+            background-color: aliceblue;
+        }
+      
+        /* picture style */
+        body{
+            font-family: 'Courier New', Courier, monospace;
+        }
+        h1 ,.font {
+            text-align: center;
+            text-transform: uppercase;
+            font-size: xx-large;
+            font-weight: 700px;
+            color:rgb(219, 129, 93);
+            text-decoration: underline;
+            font-style: italic;
+        }
+        h1{
+            font-family:Arial, Helvetica, sans-serif;
+        }
+        #gold{
+        font-size: xx-large;
+        font-weight: 700;
+        font-family:Arial, Helvetica, sans-serif ;
+        font-style: italic;
+        }
+        .banner{
+            background-color: lightpink;
+            margin: 0px 500px;
+        }
+        #bannerimage{
+            display: block;
+            margin: auto;
+            width: 500px;
+            height: 300px;
+        }
+        #border{
+            width: 300px;
+            margin: 25px;
+            border-radius:7px ;
+        }
+        img{
+             height: 200px;
+            width: 300px;
+        }
+        #flex{
+            display: flex;
+        }
+        button{
+            display: block;
+             margin: auto;    
+        }
+        p{
+            text-align: center;
+            color:darkgoldenrod;
+            font-style: italic;
+            font-weight: 800px;
+            text-transform: capitalize;
+        }
+        a{
+            color:darkgoldenrod;
+            text-decoration: none;
+        }
+        a:hover{
+            color:darkcyan;
+            background-color: aliceblue;
+        }
+         #id{
+            color: bisque;
+         }
